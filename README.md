@@ -66,7 +66,7 @@ Keeping Learning, Strive to become a full-stack software development engineer!
 
 ### Contact Me
 <a href="https://t.me/kechocy" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <!--
 <a href="https://dev.to/rishavanand" target="_blank">
